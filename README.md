@@ -1,10 +1,5 @@
 # newREAD
-<p style=”position: relative;”>
-    <img src=”sample_img1.jpg” width=”320″ height=”210″ alt=”写真” /><br />
-    <span style=”position: absolute; top: 30px; left: 75px; width: 145px;”>
-        画像の上に重ねて表示する文章です。
-    </span>
-</p>  
+<img src="sample_img1.jpg" alt="attach:cat" title="新種のモンスターを作るぞ！！" width="400" height="200">  
 
 ## ファイル説明  
 ・img: 64x64の画像dataset  
