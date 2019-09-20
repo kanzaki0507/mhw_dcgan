@@ -1,5 +1,5 @@
 # newREAD
-<img src="sample_img1.jpg" alt="attach:cat" title="新種のモンスターを作るぞ！！" width="400" height="200">  
+<img src="sample_img1.jpg" alt="attach:cat" title="新種のモンスターを作るぞ！！" width="500" height="300">  
 
 ## ファイル説明  
 ・img: 64x64の画像dataset  
