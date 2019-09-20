@@ -13,4 +13,4 @@
 ## 詳細  
 ・基本的にはimgファイルにある64x64の画像1920枚が読み込まれる。  
 画像サイズを変更したいなら、imagechange.pyの中身を弄り、お好きなサイズにする。ただし、mhw_IB_dcgan.pyのimg_sizeとGeneratorやDiscriminatorの各レイヤーのsizeには気をつける。  
-※GANはInputとOutputに気をつける。画像サイスを変更し実行にerrorが出たら、summaryを確認しながらレイヤーを修正する。
+※GANはInputとOutputに気をつける。画像サイズを変更し実行にerrorが出たら、summaryを確認しながらレイヤーを修正する。
