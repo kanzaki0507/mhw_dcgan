@@ -9,7 +9,7 @@ from keras.optimizers import Adam
 from keras.layers.advanced_activations import LeakyReLU
 
 class DCGAN():
-    def __init__(self, img_size=(64,64), img_channels = 3, ans_path = "./pokemon64/", save_path = "./newMonster", save_name = "pokemon" ):
+    def __init__(self, img_size=(64,64), img_channels = 3, ans_path = "./img/", save_path = "./newMonster", save_name = "monster" ):
         # 画像データ用の入力データサイズ
         self.img_rows, self.img_cols = img_size
         self.channels = img_channels
