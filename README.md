@@ -1,5 +1,11 @@
 # newREAD
-![サンプル](https://github.com/kanzaki0507/mhw_dcgan/blob/master/sample_img1.jpg, "新種のモンスター作成するぞ！！")
+<p style=”position: relative;”>
+    <img src=”sample_img1.jpg” width=”320″ height=”210″ alt=”写真” /><br />
+    <span style=”position: absolute; top: 30px; left: 75px; width: 145px;”>
+        画像の上に重ねて表示する文章です。
+    </span>
+</p>  
+
 ## ファイル説明  
 ・img: 64x64の画像dataset  
 ・img32: 32x32の画像dataset  
