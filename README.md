@@ -1,7 +1,6 @@
 # newREAD
-![新種のモンスター作成するぞ！！](https://github.com/kanzaki0507/mhw_dcgan/blob/master/sample_img1.jpg)
-## ファイル説明　　
-　　
+![サンプル](https://github.com/kanzaki0507/mhw_dcgan/blob/master/sample_img1.jpg, "新種のモンスター作成するぞ！！")
+## ファイル説明  
 ・img: 64x64の画像dataset  
 ・img32: 32x32の画像dataset  
 ・imagechange.py: 画像サイズをresizeするプログラム  
