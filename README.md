@@ -2,8 +2,7 @@
 <img src="sample_img1.jpg" alt="attach:cat" title="新種のモンスターを作るぞ！！" width="500" height="300">  
 
 ## ファイル説明  
-・img: 64x64の画像dataset  
-・img32: 32x32の画像dataset  
+・img: 64x64の画像dataset    
 ・imagechange.py: 画像サイズをresizeするプログラム  
 ・mhw_IB_dcgan.py: DCGANを動かすプログラム  
 ## Step  
